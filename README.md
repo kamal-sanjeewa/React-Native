@@ -6,7 +6,7 @@ To assess a developer's skills in terms of developing React Native apps and deci
 ## Tasks ##
 
 - Fork this repository
-- Create an Android project with the following features:
+- Create a React Native (android and iOS) project with the following features:
     - Loads and shows a list of Persons from a remote source
     - Caches the loaded list of Persons
     - Prevents any loading from the remote source if the cache is available
@@ -21,4 +21,4 @@ To assess a developer's skills in terms of developing React Native apps and deci
         - Address
         - Contact person
         - Contact person's phone number
-- Send an email once done to lowiegie.oblenida@upraxis.com, ronald.galang@upraxis.com, james.licong@upraxis.com
+- Send an email once done to lowiegie.oblenida@upraxis.com, emmanuel.ramos@upraxis.com, hr@upraxis.com
